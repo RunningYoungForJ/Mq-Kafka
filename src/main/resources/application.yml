@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: 127.0.0.1:9092
+    consumer:
+      group-id: young-group1
+    topic: young-mq

@@ -1,4 +1,4 @@
-package com.young.happy.mq;
+package com.young.happy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
